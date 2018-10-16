@@ -18,7 +18,7 @@ Analysis and Machine Learning Algorithms for https://archive.ics.uci.edu/ml/data
 The most important in this dataset is data preprocessing as "Bare Nuclei" column has ? Values which are replaced by 0.
 Random Forest Classifier is used to view the feature importances.
 Sample Code Number and Mitoses can be considered as not important.  
-![alt text]()
+![feature_importance](https://github.com/aryankhandal0/BreastCancerWisconsinDataSet/blob/master/download%20(2).png)
 
 # Algorithm
 We can use Random Forest on the processed data.
